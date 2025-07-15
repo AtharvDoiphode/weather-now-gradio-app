@@ -17,8 +17,8 @@ A simple and clean web application to check **real-time weather updates** and a 
 
 ## 📁 Project Structure
 weather-now-gradio-app/
-│
-├── app.py # Main Gradio application
-├── requirements.txt # Python dependencies
-├── .gitignore # Files to ignore in GitHub (like .env)
-└── README.md # This file
+
+ 1) app.py # Main Gradio application 
+ 2) requirements.txt # Python dependencies
+ 3).gitignore # Files to ignore in GitHub (like .env)
+ 4)README.md # This file
